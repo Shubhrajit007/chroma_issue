@@ -33,7 +33,7 @@
 </p>
 
 ```bash
-pip install chromadb # python client
+pip install chromadb # python clients
 # for javascript, npm install chromadb!
 # for client-server mode, chroma run --path /chroma_db_path
 ```
